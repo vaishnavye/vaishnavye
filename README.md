@@ -11,7 +11,7 @@
 ✅ **Validation**: Model diagnostics, rate change impact, goodness-of-fit tests  
 🔄 **Next**: XGBoost comparison, Power BI dashboard, IFRS17 cashflow projections  
 
-**[View Notebook](notebooks) | [Dataset Sample](data)**  
+**[View Notebook](notebooks) | [Dataset Sample](https://github.com/vaishnavye/Actuarial-Pricing-and-Reserving-GLM.git)**  
 *Built with production-grade synthetic data mimicking Indian private car portfolios*
 
 

@@ -1,6 +1,20 @@
 # 💫 Hi 👋, I'm Vaishnav
 **Aspiring Actuarial Professional Pricing And Reserving**
 
+## 🚀 Featured Project (In Progress)
+
+**General Insurance Pricing & Reserving with GLM**  
+*End-to-end actuarial modeling pipeline using 500,000 synthetic motor policies*  
+
+✅ **Pricing**: Frequency + Severity GLMs (statsmodels/scikit-learn) with risk factors (age, region, vehicle type, exposure)  
+✅ **Reserving**: Chain Ladder IBNR estimation on payment triangles (chainladder)  
+✅ **Validation**: Model diagnostics, rate change impact, goodness-of-fit tests  
+🔄 **Next**: XGBoost comparison, Power BI dashboard, IFRS17 cashflow projections  
+
+**[View Notebook](notebooks/pricing_reserving_glm.ipynb) | [Dataset Sample](data/sample_policies.csv)**  
+*Built with production-grade synthetic data mimicking Indian private car portfolios*
+
+
 Email Me 👉 ✉️ yevaishnav@gmail.com . 😊😊
 
 

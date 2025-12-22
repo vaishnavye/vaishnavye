@@ -11,7 +11,7 @@
 ✅ **Validation**: Model diagnostics, rate change impact, goodness-of-fit tests  
 🔄 **Next**: XGBoost comparison, Power BI dashboard, IFRS17 cashflow projections  
 
-**[View Notebook](notebooks/pricing_reserving_glm.ipynb) | [Dataset Sample](data/sample_policies.csv)**  
+**[View Notebook](notebooks) | [Dataset Sample](data/raw)**  
 *Built with production-grade synthetic data mimicking Indian private car portfolios*
 
 

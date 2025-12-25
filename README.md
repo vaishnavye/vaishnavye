@@ -15,7 +15,7 @@
 *Built with production-grade synthetic data mimicking Indian private car portfolios*
 
 
-Email Me 👉 ✉️ yevaishnav@gmail.com . 😊😊....
+Email Me 👉 ✉️ yevaishnav@gmail.com . 😊😊.......
 
 
 ## 🌐 Socials:
